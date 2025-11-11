@@ -1,4 +1,3 @@
-# Superstore-Sale-Dashboard-
 # 📊 SuperStore Sales Dashboard
 
 ## 🏬 Overview
@@ -69,16 +68,3 @@ Interactive slicers are added for dynamic analysis:
   - Data Cleaning (Power Query optional)
 
 ---
-
-## 🚀 How to Use
-1. Open the Excel file: `SuperStore_Sales_Dashboard.xlsx`
-2. Navigate to the **Dashboard** sheet.
-3. Use the slicers on the left panel to filter by:
-   - Region
-   - Segment
-   - Sub-Category
-4. View the interactive visualizations update automatically.
-
----
-
-## 📁 File Structure
